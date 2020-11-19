@@ -28,6 +28,6 @@
   display: none;
 }
 
-body #wall div.parent + .parent + .parent div + #tag-7.slick {
+body #wall div.parent + .parent + .parent > div > #tag-7.slick {
   display: none;
 }
