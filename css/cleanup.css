@@ -11,5 +11,5 @@
   display: none;
 }
 
-#wall .parent + #tag-4 {display: none;
+#wall .parent #tag-4 {display: none;
 }
