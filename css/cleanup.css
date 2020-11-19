@@ -28,6 +28,6 @@
   display: none;
 }
 
-body #wall div.parent div > #tag-7[class="slick"] {
+body #wall div.parent div > #tag-7.slick {
   display: none;
 }
