@@ -19,4 +19,6 @@
   display: none;
 }
 
-#wall div.parent + .parent div:last-child div#tag-6 
+#wall div.parent + .parent div:last-child div#tag-6 {
+  display: none;
+}
